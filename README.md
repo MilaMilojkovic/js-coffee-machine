@@ -25,8 +25,8 @@ This is a simple interactive coffee machine simulator built using **JavaScript**
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript
 
 ## Author
 
--**Mila Milojkovic**
+**Mila Milojkovic**
